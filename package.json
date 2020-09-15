@@ -37,7 +37,7 @@
   "devDependencies": {
     "@types/bunyan": "1.8.5",
     "bunyan": "^1.8.10",
-    "eslint": "^5.9.0",
+    "eslint": "^7.9.0",
     "typescript": "^3.2.1",
     "watch": "^1.0.2"
   }
